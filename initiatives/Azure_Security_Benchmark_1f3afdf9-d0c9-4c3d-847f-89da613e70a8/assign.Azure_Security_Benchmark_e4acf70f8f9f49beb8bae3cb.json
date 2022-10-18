@@ -1,0 +1,25 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "Azure Security Benchmark",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policySetDefinitions/1f3afdf9-d0c9-4c3d-847f-89da613e70a8",
+  "scope": "/subscriptions/347c07c5-65f2-47dc-bb87-f3456120269a",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Martin Fahlbeck",
+   "parameterScopes": {},
+   "createdBy": "8fd7d728-52e2-416f-a629-9dfab2545715",
+   "createdOn": "2022-10-18T06:30:09.9608638Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/347c07c5-65f2-47dc-bb87-f3456120269a/providers/Microsoft.Authorization/policyAssignments/e4acf70f8f9f49beb8bae3cb",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "e4acf70f8f9f49beb8bae3cb"
+}
